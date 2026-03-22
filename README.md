@@ -1164,7 +1164,7 @@
     </div>
 
     <div class="soil-card clay-soil reveal">
-      <span class="soil-emoji">🧱</div>
+      <span class="soil-emoji">🧱</span>
       <div class="soil-name">Clay-Rich Soil</div>
       <div class="soil-desc">Common in Highveld and KwaZulu-Natal. Nutrient-rich but compacts easily. Waterlogged in winter, rock-hard in summer. Needs amendment for most vegetables.</div>
       <div class="soil-props">
